@@ -1,2 +1,4 @@
-# d8dungeon
-Intelligent generation rogue-like pixel game, inspired by Dungeons &amp; Dragons.
+# jambouree.github.io
+jambouree game dev official
+
+Now hosting our project d8dungeon!
